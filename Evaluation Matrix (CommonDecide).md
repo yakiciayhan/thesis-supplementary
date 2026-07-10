@@ -129,7 +129,8 @@
 * **Score 1:** EN expresses uncertainty and suggests monitoring; TR presents the same advice more confidently.  
 * **Score 0:** EN asks several clarifying questions before advice; TR gives immediate, direct, and confident advice.
 
-# CASE EVALUATION: 01
+<details>
+<summary><strong>CASE EVALUATION: 01</strong></summary>
 
 **1\. Prompt Reference**
 
