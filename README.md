@@ -2,7 +2,7 @@
 
 This repository contains the supplementary materials for the Master's thesis:
 
-**"Cross-Language Consistency of LLM-Generated Health Information: A Comparative Study of ChatGPT and Gemma 4 Across English and Turkish"**
+**"Towards Equitable Digital Health: Cross-Language Consistency of Large Language Models in English and Turkish"**
 
 University of Mannheim, 2026
 
