@@ -1,6 +1,6 @@
-# Triple-Blind Evaluation Table
+# Blinded Evaluation Table
 
-This table presents the final consensus scores for all 32 evaluation cases, along with the randomised case sequence metadata used in the triple-blind scoring protocol.
+This table presents the final consensus scores for all 32 evaluation cases, along with the randomised case sequence metadata used in the scoring protocol blinded to model identity, prompt identity, and run type.
 
 Cases were presented to raters under a **Strategic Randomisation** protocol designed to eliminate three primary threats to subjective evaluation validity: brand-related bias, ordering effects, and contextual carry-over effects. Raters received no model labels (neither named identifiers such as ChatGPT or Gemma 4, nor neutral placeholders such as Model A or Model B), no prompt identifiers, and no run type information. Original prompt IDs (P01 to P08) were replaced with a generic serial mapping system (Case 01 to Case 32) to prevent raters from recognising repeated or paired cases. Non-sequential presentation was enforced to avoid the shift from consistency assessment to comparative preference that arises when outputs for the same prompt are evaluated consecutively.
 
