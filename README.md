@@ -15,4 +15,4 @@ Contains `Evaluation Matrix (CommonDecide).md` with detailed scoring notes for a
 ### `interrater-reliability/`
 Contains the materials used to assess interrater reliability.
 - `kappa_analysis.ipynb` — Independent scores of both raters and the computed Cohen's kappa coefficients.
-- `triple_blind_evaluation_table.md` — Final consensus scores alongside the randomised case sequence metadata used in the scoring protocol.
+- `blinded_evaluation_table.md` — Final consensus scores alongside the randomised case sequence metadata used in the scoring protocol.
